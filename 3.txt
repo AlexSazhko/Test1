@@ -1,2 +1,6 @@
 I modified this file
+<<<<<<< HEAD
 warning
+=======
+In  server
+>>>>>>> 4166f887669c78dc7a52df20299fedb7063f532b
